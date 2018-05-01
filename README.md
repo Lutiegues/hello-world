@@ -1,2 +1,2 @@
 # hello-world
-# hello everyone, just did my first edition.
+# hello everyone, just completed my first edition.
